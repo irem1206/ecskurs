@@ -1,3 +1,3 @@
-python temelleri colab
-kod-1: [Python Temelleri Colab](https://colab.research.google.com/drive/1APfJx5g6h7qCLS8haBsE6oK1xi75yUM9?usp=sharing)
+python temelleri colab <br>
+kod-1: [Python Temelleri Colab](https://colab.research.google.com/drive/1APfJx5g6h7qCLS8haBsE6oK1xi75yUM9?usp=sharing) <br>
 ödev 1: [Liste Kayıt Uygulaması](https://colab.research.google.com/drive/1iqxC5hNX5ByoVa3LkQABClRImjLdD-_I?usp=sharing)
