@@ -1,3 +1,3 @@
 # ecskurs
 ödev1:https://github.com/irem1206/ecskurs
-#github web sayfası
+github web sayfası
