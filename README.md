@@ -9,3 +9,4 @@ Hafta-2 Ders-2: [Pyton Temel Devam Colab](https://colab.research.google.com/driv
 Hafta-2 Ders-2 :[Numpy Giriş Colab](https://colab.research.google.com/drive/1jIlG0Af9o-xM7FfypGACEyacL8ZW33sA?usp=sharing) <br>
 Hafta-3 Ders-1: [Numpy Devam](https://colab.research.google.com/drive/1eUJSqcp6tVjTTUwFvD4k3-e_HF1xqNMM?usp=sharing) <br>
 Hafta-3 Ders-2: [Numpy Devam](https://colab.research.google.com/drive/1ueYBfRjx4Jy826gHxwbW-8OVokkylA03?usp=sharing)<br>
+Hafta-3 Ders-2 Devam:[Devam](https://colab.research.google.com/drive/1mNzOwFeJA-hivbyecz2p8NVZ_axzJvOX?usp=sharing)<b>
