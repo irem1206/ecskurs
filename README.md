@@ -7,6 +7,6 @@ Hafta-1 Ders-2: [Python Temelleri Colab](https://colab.research.google.com/drive
 Hafta-2 Ders-1: [Python Temelleri Devam Colab](https://colab.research.google.com/drive/1BBq2x2MGFtn4caaI55ytQVsq4i73VTVN?usp=sharing) <br>
 Hafta-2 Ders-2: [Pyton Temel Devam Colab](https://colab.research.google.com/drive/1Ot8Wp1ETH56SppbP0OWJQloSuALl1Ejz?usp=sharing) <br>
 Hafta-2 Ders-2 :[Numpy Giriş Colab](https://colab.research.google.com/drive/1jIlG0Af9o-xM7FfypGACEyacL8ZW33sA?usp=sharing) <br>
-Hafta-3 Ders-1: [Numpy Devam](https://colab.research.google.com/drive/1eUJSqcp6tVjTTUwFvD4k3-e_HF1xqNMM?usp=sharing) <br>
-Hafta-3 Ders-2: [Numpy Devam](https://colab.research.google.com/drive/1ueYBfRjx4Jy826gHxwbW-8OVokkylA03?usp=sharing)<br>
+Hafta-3 Ders-1: [Numpy Pandas](https://colab.research.google.com/drive/1eUJSqcp6tVjTTUwFvD4k3-e_HF1xqNMM?usp=sharing) <br>
+Hafta-3 Ders-2: [Pandas Devam](https://colab.research.google.com/drive/1ueYBfRjx4Jy826gHxwbW-8OVokkylA03?usp=sharing)<br>
 Hafta-3 Ders-2 Devam:[Devam](https://colab.research.google.com/drive/1mNzOwFeJA-hivbyecz2p8NVZ_axzJvOX?usp=sharing)<b>
