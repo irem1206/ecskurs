@@ -9,4 +9,5 @@ Hafta-2 Ders-2: [Pyton Temel Devam Colab](https://colab.research.google.com/driv
 Hafta-2 Ders-2 :[Numpy Giriş Colab](https://colab.research.google.com/drive/1jIlG0Af9o-xM7FfypGACEyacL8ZW33sA?usp=sharing) <br>
 Hafta-3 Ders-1: [Numpy Pandas](https://colab.research.google.com/drive/1eUJSqcp6tVjTTUwFvD4k3-e_HF1xqNMM?usp=sharing) <br>
 Hafta-3 Ders-2: [Pandas Devam](https://colab.research.google.com/drive/1ueYBfRjx4Jy826gHxwbW-8OVokkylA03?usp=sharing)<br>
-Hafta-3 Ders-2 Devam:[Devam](https://colab.research.google.com/drive/1mNzOwFeJA-hivbyecz2p8NVZ_axzJvOX?usp=sharing)<b>
+Hafta-4 Ders-1 Devam:[Devam](https://colab.research.google.com/drive/1mNzOwFeJA-hivbyecz2p8NVZ_axzJvOX?usp=sharing)<br>
+Hafta-5 Ders-1:[Titanic](https://www.kaggle.com/code/irem1206/notebook284cf0c688) <br>
