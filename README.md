@@ -1,5 +1,5 @@
 # ecskurs
-ödev1:https://github.com/irem1206/ecskurs github web sayfası <br>
+ödev1:[github web sayfası](https://github.com/irem1206/irem1206.github.io) <br>
 hafta-1 Ders-1: [Python Temelleri Colab](https://colab.research.google.com/drive/1APfJx5g6h7qCLS8haBsE6oK1xi75yUM9?usp=sharing) <br>
 ödev:[ödev](https://colab.research.google.com/drive/1Ly-41-L6jPo2AxNmTNzqMtJc-GL_IlGb?usp=sharing) <br>
 Hafta-1 Ders-2: [Python Temelleri Colab](https://colab.research.google.com/drive/1APfJx5g6h7qCLS8haBsE6oK1xi75yUM9?usp=sharing) <br>
