@@ -1,7 +1,7 @@
 # ecskurs
 Repo:[github web sayfası](https://github.com/irem1206/irem1206.github.io) <br>
 Hafta-1 Ders-2: [Python Temelleri Colab](https://colab.research.google.com/drive/1APfJx5g6h7qCLS8haBsE6oK1xi75yUM9?usp=sharing) <br>
-ödev : [Liste Kayıt Uygulaması](https://colab.research.google.com/drive/1iqxC5hNX5ByoVa3LkQABClRImjLdD-_I?usp=sharing) <br>
+Hafta 1-Ders 2-ödev : [Liste Kayıt Uygulaması](https://colab.research.google.com/drive/1iqxC5hNX5ByoVa3LkQABClRImjLdD-_I?usp=sharing) <br>
 Hafta-2 Ders-1: [Python Temelleri Devam Colab](https://colab.research.google.com/drive/1BBq2x2MGFtn4caaI55ytQVsq4i73VTVN?usp=sharing) <br>
 Hafta-2 Ders-2: [Python Temelleri devam](https://colab.research.google.com/drive/1Ot8Wp1ETH56SppbP0OWJQloSuALl1Ejz?usp=sharing) <br>
 Hafta-2 Ders-2 :[Numpy Giriş](https://colab.research.google.com/drive/1jIlG0Af9o-xM7FfypGACEyacL8ZW33sA?usp=sharing) <br>
