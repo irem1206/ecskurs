@@ -10,3 +10,4 @@ Hafta-3 Ders-2: [Pandas Devam](https://colab.research.google.com/drive/1ueYBfRjx
 Hafta-4 Ders-1 Devam:[Tips Veri Seti](https://colab.research.google.com/drive/1mNzOwFeJA-hivbyecz2p8NVZ_axzJvOX?usp=sharing)<br>
 Hafta-5 Ders-1:[Titanic](https://www.kaggle.com/code/irem1206/notebook284cf0c688) <br>
 Hafta-5 Ders-2:[TM Model Oluşturma ve Deploy Web,Python ve Android](https://colab.research.google.com/drive/1BJL2tp7d2rxXskCLbzWAdjaYIy_Wodjp?usp=sharing) <br>
+Hafta 6 Ders 1/Telafi:[Titanic Devam](https://www.kaggle.com/code/irem1206/titanic)
