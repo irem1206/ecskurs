@@ -13,3 +13,4 @@ Hafta-5 Ders-2:[TM Model Oluşturma ve Deploy Web,Python ve Android](https://col
 Hafta 6 Ders 1/Telafi:[Telafi](https://www.kaggle.com/code/irem1206/titanic) <br>
 Hafta 6 Ders 1-2:[Titanik Yarışması Skor](https://www.kaggle.com/code/irem1206/titanic) <br>
 Hafta 6 Ders 2:[2. El Araç Fiyat Tahmini](https://colab.research.google.com/drive/1U5bAgIFGsBZ4pTDqzVKZT70a5f2Ik1lq?usp=sharing) <br>
+Hafta 7 Ders 1:[İkinci El Araç Tahmin Model Dosyası](https://github.com/irem1206/ecskurs/blob/main/model/car_pipe.pkl) <br>
