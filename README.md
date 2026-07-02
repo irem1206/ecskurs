@@ -17,3 +17,6 @@ Hafta 6 Ders 2:[2. El Araç Fiyat Tahmini](https://colab.research.google.com/dri
 Hafta 7 Ders 1:[İkinci El Araç Tahmin Model Dosyası](https://github.com/irem1206/ecskurs/blob/main/model/car_pipe.pkl) <br>
 Hafta 7-ödev:[2. el araç tahmin sitesi](https://huggingface.co/spaces/iremcan/AracFiyatTahmin_) <br>
 Hafta 7 Ders 2:[Gradio](https://colab.research.google.com/drive/1C0-PJXy6zatUkEHG1Wa2eDc1yhdhSzzV?usp=sharing) <br>
+Hafta 7 Ders 3:[covid-yarışan grafikler](https://colab.research.google.com/drive/1Ae3cvY8f1LlhCtbFWlWpP7gOYRznHnlG?usp=sharing) <br>
+Hafta 7 Ders 3 Çalışma 2:[farklı platformlardan veri çekmek](https://colab.research.google.com/drive/18NdeELXJ5UpmqfIIjx2bhvoWJh6zEaHF?usp=sharing) <br>
+Hafta 7 Ders 3 Çalışma 3:[Bing arama motoru ile görsel indirmek](https://colab.research.google.com/drive/1q8ZbVquwZg0Ra0LIu5Aa4q1PIUCSg4K9?usp=sharing) <br>
