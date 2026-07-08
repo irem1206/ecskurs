@@ -20,3 +20,5 @@ Hafta 7 Ders 2:[Gradio](https://colab.research.google.com/drive/1C0-PJXy6zatUkEH
 Hafta 7 Ders 3:[covid-yarışan grafikler](https://colab.research.google.com/drive/1Ae3cvY8f1LlhCtbFWlWpP7gOYRznHnlG?usp=sharing) <br>
 Hafta 7 Ders 3 Çalışma 2:[farklı platformlardan veri çekmek](https://colab.research.google.com/drive/18NdeELXJ5UpmqfIIjx2bhvoWJh6zEaHF?usp=sharing) <br>
 Hafta 7 Ders 3 Çalışma 3:[Bing arama motoru ile görsel indirmek](https://colab.research.google.com/drive/1q8ZbVquwZg0Ra0LIu5Aa4q1PIUCSg4K9?usp=sharing) <br>
+Hafta 8 Ders 1:[Chorn Analizi](https://colab.research.google.com/drive/1KBati01Y1nmE7ATXTJvHBURNdddvlQlC?usp=sharing) <br>
+Hafta 8 Ders 2[Zaman Serisi](https://colab.research.google.com/drive/15wICmqLPTYmYFm3OHmSgYGWs3ALQ4sRA?usp=sharing) <br>
