@@ -24,3 +24,4 @@ Hafta 8 Ders 1:[Chorn Analizi](https://colab.research.google.com/drive/1KBati01Y
 Hafta 8 Ders 2:[Zaman Serisi](https://colab.research.google.com/drive/15wICmqLPTYmYFm3OHmSgYGWs3ALQ4sRA?usp=sharing) <br>
 Hafta 8 Ders 3:[Film Öneri Sistemleri](https://colab.research.google.com/drive/1CHyTZg3me4wVBgakhwjtJ_OzvmVB24DD?usp=sharing) <br>
 Hafta 9 Ders 1/2:[Film öneri sistemleri devam](https://colab.research.google.com/drive/1CHyTZg3me4wVBgakhwjtJ_OzvmVB24DD?usp=sharing) <br>
+Hafta 9 Ders 3:[HF Model Deploy](https://colab.research.google.com/drive/18T83NviLxSDAQK2tgvgqlXcG-Sov3LQL?usp=sharing) <br>
