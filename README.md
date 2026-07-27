@@ -25,3 +25,4 @@ Hafta 8 Ders 2:[Zaman Serisi](https://colab.research.google.com/drive/15wICmqLPT
 Hafta 8 Ders 3:[Film Öneri Sistemleri](https://colab.research.google.com/drive/1CHyTZg3me4wVBgakhwjtJ_OzvmVB24DD?usp=sharing) <br>
 Hafta 9 Ders 1/2:[Film öneri sistemleri devam](https://colab.research.google.com/drive/1CHyTZg3me4wVBgakhwjtJ_OzvmVB24DD?usp=sharing) <br>
 Hafta 9 Ders 3:[HF Model Deploy](https://colab.research.google.com/drive/18T83NviLxSDAQK2tgvgqlXcG-Sov3LQL?usp=sharing) <br>
+Hafta 10 Ders 1:[HF Duygu Analiz Modeli](https://colab.research.google.com/drive/1neBXsW70tesYZ7H6-SRPN_9-das-i9Im?usp=sharing) <br>
