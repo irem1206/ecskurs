@@ -29,5 +29,4 @@ Hafta 10 Ders 1:[HF Duygu Analiz Modeli](https://colab.research.google.com/drive
 Hafta 10 Ders 2-1:[Gemini Apı Kullanımı](https://colab.research.google.com/drive/1FgYof-90YDsWUAW6VZepxflbI6rKB--5?usp=sharing) <br>
 Hafta 10 Ders 2-2:[Gemini Apı Kullanımı 2](https://colab.research.google.com/drive/1JSN1LczYj2WaHVWRtqA8YrgqOjf4Gcsw?usp=sharing) <br>
 Hafta 10 Ders 3:[Haber Özetleme Model](https://colab.research.google.com/drive/12afCHnJSc28Y0W8H1DNcF4qdSViDckKn?usp=sharing) <br>
-Hafta 11 Ders 1:[OpenCV](<img width="751" height="200" alt="image" src="https://github.com/user-attachments/assets/7043247e-4e84-4446-8199-090e6c3754c4" />
-) <br>
+Hafta 11 Ders 1:[OpenCV](<img width="751" height="200" alt="image" src="https://github.com/user-attachments/assets/7043247e-4e84-4446-8199-090e6c3754c4" />) <br>
