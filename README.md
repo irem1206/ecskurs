@@ -31,5 +31,6 @@ Hafta 10 Ders 2-2:[Gemini Apı Kullanımı 2](https://colab.research.google.com/
 Hafta 10 Ders 3:[Haber Özetleme Model](https://colab.research.google.com/drive/12afCHnJSc28Y0W8H1DNcF4qdSViDckKn?usp=sharing) <br>
 Hafta 11 Ders 1:[OpenCV](https://colab.research.google.com/drive/1xBCmfIYWcUN3mTOWM1ep-980cFRT8m62?usp=sharing) <br>
 Hafta 11 Ders 2:Antigravity <br>
+Hafta 11 Ders 3:[Tek Nöron](https://colab.research.google.com/drive/1s7vvBCyXPu-g9fMZ3ETM_X_oiSqCnf2J?usp=sharing) <br>
 Hafta 12 Ders 1:[MNIST Rakam Tanıma](https://colab.research.google.com/drive/10brHWJbMBw4xo4BPqLn6_OAypEUK9QX0?usp=sharing) <br>
 Hafta 12 Ders 2:[Derin Öğrenme](https://colab.research.google.com/drive/1y-Uv-vgYeFMP603f0vhewmZ4bDIBN9Xt?usp=sharing) <br>
