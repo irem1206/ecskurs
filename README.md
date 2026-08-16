@@ -30,3 +30,5 @@ Hafta 10 Ders 2-1:[Gemini Apı Kullanımı](https://colab.research.google.com/dr
 Hafta 10 Ders 2-2:[Gemini Apı Kullanımı 2](https://colab.research.google.com/drive/1JSN1LczYj2WaHVWRtqA8YrgqOjf4Gcsw?usp=sharing) <br>
 Hafta 10 Ders 3:[Haber Özetleme Model](https://colab.research.google.com/drive/12afCHnJSc28Y0W8H1DNcF4qdSViDckKn?usp=sharing) <br>
 Hafta 11 Ders 1:[OpenCV](https://colab.research.google.com/drive/1xBCmfIYWcUN3mTOWM1ep-980cFRT8m62?usp=sharing) <br>
+Hafta 12 Ders 1:[MNIST Rakam Tanıma](https://colab.research.google.com/drive/10brHWJbMBw4xo4BPqLn6_OAypEUK9QX0?usp=sharing) <br>
+Hafta 12 Ders 2:[Derin Öğrenme](https://colab.research.google.com/drive/1y-Uv-vgYeFMP603f0vhewmZ4bDIBN9Xt?usp=sharing) <br>
